@@ -662,6 +662,9 @@ body {
 .bottom .formWrapper .ant-form .ant-row {
   margin-bottom: 10px;
 }
+.bottom .formWrapper .ant-form .ant-form-item-label-left {
+  width: 220px;
+}
 .top2 {
   display: flex;
   flex-wrap: wrap;
